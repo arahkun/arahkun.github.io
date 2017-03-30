@@ -1,10 +1,6 @@
 # Arahkun Social Engineering Awareness Training & Information Security Education 
   
-## Hello there!
-
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
-
+## Hello there
 **[Arahkun](http://arahkun) Welcome to out GitHub home!
 
 ## Important News
@@ -13,7 +9,7 @@ An official company announcement will be revealed during April.
 Due to the present situation our old website is currently unavailable.
 A revised site (based on our upcoming business revelation) will be available within short. 
 
-## Preview
+## For now
 
 ![Twitter](http://www.freeiconspng.com/uploads/twitter-icon--pretty-social-media-iconset--custom-icon-design-29.png)    
 Follow us on [Tiwttern](https://twitter.com/arahkun).

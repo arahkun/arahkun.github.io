@@ -88,6 +88,12 @@ svg:not(:root) {
 overflow:hidden
 }
 
+c0de {
+font-family:monospace,monospace;
+font-size:10px
+line-height:0;
+}
+
 code,kbd,pre,samp {
 font-family:monospace,monospace;
 font-size:1em

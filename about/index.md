@@ -30,9 +30,6 @@ A revised site (based on our upcoming business revelation) will be available wit
 <a class="btn zoombtn" href="{{ site.url }}/projects"><img class="img-42" src="https://arahkun.github.io/assets/img/13/tasks.png" alt="Projects" height="42" width="42"><br>projects</a>
 
 
-![Twitter](http://www.freeiconspng.com/uploads/twitter-icon--pretty-social-media-iconset--custom-icon-design-29.png)    
-Follow us on [Tiwtter](https://twitter.com/arahkun).
-
 <br><br><br><br>
 <center>
 <c0de>

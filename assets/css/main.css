@@ -818,9 +818,18 @@ image-rendering:optimizeQuality
 .img-circle {
 border-radius:50%;
 border:3px solid #fff;
-height:150px;
-width:150px
+height:100px;
+width:100px
 }
+
+.img-42 {
+height:42px;
+width:42px;
+vertical-align:middle;
+margin-left:13px;
+margin-right:13px;
+}
+
 
 .author-photo {
 background-color:#fff

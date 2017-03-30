@@ -11,33 +11,37 @@ layout: compress
 </head>
 <body>
     {% include nav.html %}
+	
     <!-- Header -->
-    <header class="header" role="banner">
-        <div class="wrapper animated fadeIn">
-            <div class="content">
-                <div class="compress">
-                    <h1>{{ page.title }}</h1>
-                    <a class="btn zoombtn" href="{{site.url}}">
-                    </a>
-                </div>
-                <div class="compress">
-                    {% for post in site.posts %} 
-                        {% if post.project %}
-                    <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
-                        </li>
-                    </ul>
-                      {% endif %}
-                    {% endfor %}
-                </div>
+	    {% include scripts.html %}
+
+    <header class="header flex" role="banner">
+        <div class="container animated fadeIn">
+            <div class="row">
+                        <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+                    <h3 class="title"><p style="font-size:1.2rem;font-weight:700">{{ site.title }}</p>
+                    </h3> <hr class="hr-line">
+                    <h3 class="title">	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
+
+                    </h3>
+		    
+                  <hr class="hr-line">                 
+
+<hr class="hr-line">
+                  <h3 class="dt">
+                         <a class="btn zoombtn" href="{{ site.url }}/about">Abou</a>
+<a class="btn zoombtn" href="{{ site.url }}/posts">>
+<img class="img-42" src="https://arahkun.github.io/assets/img/13/tasks.png" alt="Projects" height="42" width="42">Our GitHub Projectsf</a>
+                         <a class="btn zoombtn" href="{{ site.url }}/projects">Project
+                         </a>
+                 </h3><br><br>
+		    
+		     <h3 class="dt">
+<a href="mailto:hello@arahkun.com" target="_blank" rel="github"><img class="img-42" src="https://arahkun.github.io/assets/img/13/twitter.png" alt="Smiley face" height="42" width="42"> Try it Yourself</a>
+                    </h3> 
+		    
             </div>
         </div>
     </header>
-    {% include scripts.html %}
-    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
-    <script type="text/javascript">(new WOW).init();</script>
 </body>
 </html>

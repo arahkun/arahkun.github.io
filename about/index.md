@@ -5,14 +5,13 @@ tags: [About Arahkun]
 date: 2016-03-21
 comments: false
 ---
-    
+<br><br> 
 <center><a href="https://arahkun.github.io/"><b>arahkun @ github</b></a></center>
+<br><br>
 
-
-## Arahkun Social Engineering Awareness Training & Information Security Education 
+### Arahkun Social Engineering Awareness Training & Information Security Education 
   
-## Hello there
-### We are [Arahkun](http://arahkun.com), welcome to out GitHub home!
+### Hello there! We are [Arahkun](http://arahkun.com) and welcome to out GitHub home!
 
 ## Important News
 We here at Arahkun have important and supercalifragilisticexpialidocious news.

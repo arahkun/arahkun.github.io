@@ -10,26 +10,7 @@ comments: false
 
 # Ongoing GitHub Projects
 
-## Important News
-We here at Arahkun have important and supercalifragilisticexpialidocious news.
-An official company announcement will be revealed during April.
-Due to the present situation our old website is currently unavailable.
-A revised site (based on our upcoming business revelation) will be available within short. 
- <center>  <br><br><br><br>
-<br><br><br><br>
+<br><br><br><br> 
 
-<br><br><br><br>
-
-<c0de>
-░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓████████████████████████████████████████████████████████████████▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░
-
- █████╗ ██████╗  █████╗ ██╗  ██╗██╗  ██╗██╗   ██╗███╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗██║  ██║██║ ██╔╝██║   ██║████╗  ██║
-███████║██████╔╝███████║███████║█████╔╝ ██║   ██║██╔██╗ ██║
-██╔══██║██╔══██╗██╔══██║██╔══██║██╔═██╗ ██║   ██║██║╚██╗██║
-██║  ██║██║  ██║██║  ██║██║  ██║██║  ██╗╚██████╔╝██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-░░░░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓████████████████████████████████████████████████████████████████▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒░░░░░░░░░
-</c0de>
-</center>
  
+<a href="https://arahkun.github.io/sound_library-nintendo_8bits-super_mario-notifications_and_alerts/"><b>Sound bites (equalized and enhanced) from the classic Nintendo 8bits Super Mario Bros. games 1 -> 3. Perfect for phone/tablet/computer notifications and alert sounds/tones</b></a>

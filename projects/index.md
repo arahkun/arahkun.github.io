@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: compressed
 title: Our GitHub Projects
 excerpt: "A List of Our GitHub Projects"
 comments: false

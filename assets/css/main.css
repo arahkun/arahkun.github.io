@@ -1,9 +1,11 @@
 html {
+      font-family: 'Roboto Mono', monospace;
 -ms-text-size-adjust:100%;
 -webkit-text-size-adjust:100%
 }
 
 body {
+     font-family: 'Roboto Mono', monospace;
 margin:0
 }
 
@@ -678,8 +680,13 @@ border-radius:3px
 }
 
 dt {
-font-weight:bolder
+height:42px;
+width:42px;
+vertical-align:middle;
+margin-left:13px;
+margin-right:13px;
 }
+
 
 .social-btn,.btn {
 display:inline-block;

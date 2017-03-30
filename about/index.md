@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: compress
 title: About Arahkun Social Engineering Awareness Training & Information Security Education  
 tags: [About Arahkun]
 date: 2016-03-21

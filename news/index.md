@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: news
 title: News
 excerpt: "Just some news"
 comments: false
@@ -8,8 +8,8 @@ comments: false
 <center><a href="https://arahkun.github.io/"><b>arahkun @ github</b></a></center>
 <br><br><br><br>
 
-# March 2017:
-## Important News
+## March 2017:
+### Important News
 We here at Arahkun have important and supercalifragilisticexpialidocious news.
 An official company announcement will be revealed during April.
 Due to the present situation our old website is currently unavailable.
@@ -17,14 +17,4 @@ A revised site (based on our upcoming business revelation) will be available wit
 
 
 
-<br><br><br><br>
-<center>
-<c0de>
- █████╗ ██████╗  █████╗ ██╗  ██╗██╗  ██╗██╗   ██╗███╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗██║  ██║██║ ██╔╝██║   ██║████╗  ██║
-███████║██████╔╝███████║███████║█████╔╝ ██║   ██║██╔██╗ ██║
-██╔══██║██╔══██╗██╔══██║██╔══██║██╔═██╗ ██║   ██║██║╚██╗██║
-██║  ██║██║  ██║██║  ██║██║  ██║██║  ██╗╚██████╔╝██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-</c0de>
-</center>
+

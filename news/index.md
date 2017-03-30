@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: page
 title: News
 excerpt: "Just some news"
 comments: false

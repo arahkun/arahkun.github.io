@@ -1743,11 +1743,27 @@ unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+
 
 @font-face {
 font-family:'FontAwesome';
-src:url(../fonts/FontAwesome//fontawesome-webfont.eot?v=4.7.0);
-src:url(../fonts/FontAwesome//fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"),url(../fonts/FontAwesome//fontawesome-webfont.woff2?v=4.7.0) format("woff2"),url(../fonts/FontAwesome//fontawesome-webfont.woff?v=4.7.0) format("woff"),url(../fonts/FontAwesome//fontawesome-webfont.ttf?v=4.7.0) format("truetype"),url(../fonts/FontAwesome//fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format("svg");
+src:url(../fonts/FontAwesome/fontawesome-webfont.eot);
+src:url(../fonts/FontAwesome/fontawesome-webfont.eot) format("embedded-opentype"),url(../fonts/FontAwesome/fontawesome-webfont.woff) format("woff2"),url(../fonts/FontAwesome/fontawesome-webfont.woff) format("woff"),url(../fonts/FontAwesome/fontawesome-webfont.ttf) format("truetype"),url(../fonts/FontAwesome/fontawesome-webfont.svg) format("svg");
 font-weight:400;
 font-style:normal
 }
+
+
+
+@import "font-awesome/variables";
+@import "font-awesome/mixins";
+@import "font-awesome/path";
+@import "font-awesome/core";
+@import "font-awesome/larger";
+@import "font-awesome/fixed-width";
+@import "font-awesome/list";
+@import "font-awesome/bordered-pulled";
+@import "font-awesome/animated";
+@import "font-awesome/rotated-flipped";
+@import "font-awesome/stacked";
+@import "font-awesome/icons";
+@import "font-awesome/screen-reader";
 
 .fa {
 display:inline-block;

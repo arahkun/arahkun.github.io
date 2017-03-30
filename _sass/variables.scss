@@ -1,10 +1,10 @@
 //colors
-$bodycolor           : #D24D57;
-$black           	 : #000;
+$bodycolor           : rgba(#2a7aa2, 0.59);
+$black           	 : #102329;
 $white               : #fff;
 $color_gray          : #e8e8e8;
-$red                 : #FF4136;
-$maroon              : #85144b;
+$red                 : rgba(#b01919, 0.78);
+$maroon              : #147a85;
 $color_tuatara       : #383838;
 $color_shark         : #282828;
 $color_mischka       : #d0d1d5;
@@ -18,7 +18,7 @@ $color_fuscous_gray  : #555;
 $color_alabaster     : #fcfcfc;
 $color_celeste       : #ccc;
 $color_pink_swan     : #bbb;
-$comp-color 	     : complement(#222); 
+$comp-color 	     : #154532; 
 
 //button colors
 $success			 : #5cb85c;
@@ -27,11 +27,11 @@ $danger				 : #C64537;
 $info		         : #308cbc;
 
 //fonts
-$font1               : Fira Sans,sans-serif;
-$font2               : Inconsolata;
-$alt-font            : serif;
-$doc-font-size       : 16;
-$doc-line-height     : 26;
+$font1               : Roboto Mono,monospace;
+$font2               : Roboto Mono,monospace;
+$alt-font            : monospace;
+$doc-font-size       : 13;
+$doc-line-height     : 24;
 
 //media
 $small               : "only screen and (max-width: 30em)";

@@ -1,7 +1,6 @@
 # Arahkun Social Engineering Awareness Training & Information Security Education 
   
-## Hello there
-** [Arahkun](http://arahkun) Welcome to out GitHub home!
+## Hello there!! Welcome to out GitHub home!
 
 ## Important News
 We here at Arahkun have important and supercalifragilisticexpialidocious news.
@@ -13,3 +12,4 @@ A revised site (based on our upcoming business revelation) will be available wit
 
 ![Twitter](http://www.freeiconspng.com/uploads/twitter-icon--pretty-social-media-iconset--custom-icon-design-29.png)    
 Follow us on [Tiwtter](https://twitter.com/arahkun).
+[Arahkun](http://arahkun) 

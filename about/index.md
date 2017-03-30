@@ -1,43 +1,21 @@
 ---
 layout: about
-title: About Arahkun 
+title: About Arahkun Social Engineering Awareness Training & Information Security Education  
 tags: [About Arahkun]
 date: 2016-03-21
 comments: false
 ---
 
 
-
-<br><br> 
-<center><a href="https://arahkun.github.io/"><b>arahkun @ github</b></a>
-<br><br>
-
-### Arahkun Social Engineering Awareness Training & Information Security Education 
-  
-### Hello there! We are Arahkun and welcome to out GitHub home!
-</center>
-## Important News
-We here at Arahkun have important and supercalifragilisticexpialidocious news.
-An official company announcement will be revealed during April.
-Due to the present situation our old website is currently unavailable.
-A revised site (based on our upcoming business revelation) will be available within short. 
+<center> About Us</center>
 
 
-<hr class="hr-line">
-                  <h3 class="dt">
-<a class="btn zoombtn" href="{{ site.url }}/about"><img class="img-42" src="https://arahkun.github.io/assets/img/13/desktop.png" alt="Projects" height="42" width="42"><br>about</a>
+Our social-engineeringeducation model, methods and material is built on three years of in-house research and development.
 
-<a class="btn zoombtn" href="{{ site.url }}/projects"><img class="img-42" src="https://arahkun.github.io/assets/img/13/tasks.png" alt="Projects" height="42" width="42"><br>projects</a>
+At Arahkun we focus on sharing experience and promoting individual awareness and knowledge. We are here to help you understand the threats and dangers of the digital world, in a safe environment with real-world assessments and testing. We will be by your side as seasoned travelers in this information age.
 
+In the modern model of information security, knowledge is power.
 
-<br><br><br><br>
-<center>
-<c0de>
- █████╗ ██████╗  █████╗ ██╗  ██╗██╗  ██╗██╗   ██╗███╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗██║  ██║██║ ██╔╝██║   ██║████╗  ██║
-███████║██████╔╝███████║███████║█████╔╝ ██║   ██║██╔██╗ ██║
-██╔══██║██╔══██╗██╔══██║██╔══██║██╔═██╗ ██║   ██║██║╚██╗██║
-██║  ██║██║  ██║██║  ██║██║  ██║██║  ██╗╚██████╔╝██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-</c0de>
-</center>
+Education gives you that knowledge.
+
+Arahkun is here to help you seize it.

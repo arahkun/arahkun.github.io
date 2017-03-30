@@ -6,7 +6,7 @@ comments: false
 ---
 <br><br> 
 <center><a href="https://arahkun.github.io/"><b>arahkun @ github</b></a></center>
-<br><br><br><br>
+<br><br><br><br> 
 
 # Ongoing GitHub Projects
 
@@ -18,7 +18,6 @@ A revised site (based on our upcoming business revelation) will be available wit
  <center>  <br><br><br><br>
 <br><br><br><br>
 
-Follow us on [Tiwtter](https://twitter.com/arahkun).
 <br><br><br><br>
 
 <span class="c0de">

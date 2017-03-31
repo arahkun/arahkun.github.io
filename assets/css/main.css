@@ -539,9 +539,14 @@ padding:0 .5em
 
 .title {
 text-align:center;
-font-weight:500
+font-weight:700
 }
 .t42 {
+text-align:justify;
+font-weight:500
+}
+
+.t13 {
 text-align:justify;
 font-weight:300
 }

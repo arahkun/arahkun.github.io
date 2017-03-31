@@ -6,9 +6,9 @@
 <head>
     {% include head.html %}
         {% include nav.html %}
-	    {% include scripts.html %}
-    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
-    <script type="text/javascript">(new WOW).init();</script>
+
+<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,500,700" rel="stylesheet">
+
 </head>
 <body>
 	
@@ -25,11 +25,15 @@
     <!-- arahkun -->
     <!-- arahkun -->
     <!-- arahkun -->
-<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,500,700" rel="stylesheet">
     <!-- arahkun -->
     <!-- arahkun -->
     <!-- arahkun -->
     <!-- arahkun -->
     <!-- arahkun -->
+	<!-- MathJax -->
+		    {% include scripts.html %}
+	    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
+    <script type="text/javascript">(new WOW).init();</script>
+    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </body>
 </html>
